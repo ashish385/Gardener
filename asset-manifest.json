@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Gardener/static/css/main.e6c13ad2.css",
-    "main.js": "/Gardener/static/js/main.0243cc77.js",
+    "main.css": "/Gardener/static/css/main.31abf01b.css",
+    "main.js": "/Gardener/static/js/main.40ef260b.js",
     "index.html": "/Gardener/index.html",
-    "main.e6c13ad2.css.map": "/Gardener/static/css/main.e6c13ad2.css.map",
-    "main.0243cc77.js.map": "/Gardener/static/js/main.0243cc77.js.map"
+    "main.31abf01b.css.map": "/Gardener/static/css/main.31abf01b.css.map",
+    "main.40ef260b.js.map": "/Gardener/static/js/main.40ef260b.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.0243cc77.js"
+    "static/css/main.31abf01b.css",
+    "static/js/main.40ef260b.js"
   ]
 }
