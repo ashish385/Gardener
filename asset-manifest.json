@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gardener/static/css/main.e6c13ad2.css",
+    "main.js": "/Gardener/static/js/main.0243cc77.js",
+    "index.html": "/Gardener/index.html",
+    "main.e6c13ad2.css.map": "/Gardener/static/css/main.e6c13ad2.css.map",
+    "main.0243cc77.js.map": "/Gardener/static/js/main.0243cc77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0243cc77.js"
+  ]
+}
