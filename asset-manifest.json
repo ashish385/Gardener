@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/Gardener/static/css/main.31abf01b.css",
-    "main.js": "/Gardener/static/js/main.40ef260b.js",
+    "main.css": "/Gardener/static/css/main.81e555b8.css",
+    "main.js": "/Gardener/static/js/main.e4adff2d.js",
+    "static/media/carousel-1.jpg": "/Gardener/static/media/carousel-1.754643e9cd6d54d30462.jpg",
+    "static/media/carousel-2.jpg": "/Gardener/static/media/carousel-2.5ff46eaccd4b04021f5c.jpg",
     "index.html": "/Gardener/index.html",
-    "main.31abf01b.css.map": "/Gardener/static/css/main.31abf01b.css.map",
-    "main.40ef260b.js.map": "/Gardener/static/js/main.40ef260b.js.map"
+    "main.81e555b8.css.map": "/Gardener/static/css/main.81e555b8.css.map",
+    "main.e4adff2d.js.map": "/Gardener/static/js/main.e4adff2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.31abf01b.css",
-    "static/js/main.40ef260b.js"
+    "static/css/main.81e555b8.css",
+    "static/js/main.e4adff2d.js"
   ]
 }
