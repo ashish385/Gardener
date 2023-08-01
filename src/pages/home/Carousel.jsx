@@ -1,4 +1,6 @@
 import React from 'react'
+import "../../css/style.css";
+import "../../css/bootstrap.min.css";
 import img1  from "../../imgages/carousel-1.jpg"
 import img2  from "../../imgages/carousel-2.jpg"
 import { Link } from 'react-router-dom';

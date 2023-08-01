@@ -1,12 +1,12 @@
 import React from 'react';
-import { NavLink } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 import "../../css/style.css";
 import "../../css/bootstrap.min.css";
 
 const Navbar = () => {
   return (
     <>
-      <nav className="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
+      <nav className="navbar navbar-expand-lg bg-white text-black sticky-top p-0">
         <NavLink
           to="index-2.html"
           className="navbar-brand d-flex align-items-center px-4 px-lg-5"
@@ -23,9 +23,7 @@ const Navbar = () => {
         </button>
         <div className="collapse navbar-collapse" id="navbarCollapse">
           <div className="navbar-nav ms-auto p-4 p-lg-0">
-            <NavLink to="/" className="nav-item nav-link active">
-              {" "}
-              {/* to="index-2.html" */}
+            <NavLink to="/" className="nav-item nav-link ">
               Home
             </NavLink>
             <NavLink to="about.html" className="nav-item nav-link">
@@ -46,21 +44,21 @@ const Navbar = () => {
                 Pages
               </NavLink>
               <div className="dropdown-menu bg-light m-0">
-                <NavLink to="feature.html" className="dropdown-item">
+                <Link to="feature.html" className="dropdown-item">
                   Features
-                </NavLink>
-                <NavLink to="quote.html" className="dropdown-item">
+                </Link>
+                <Link to="quote.html" className="dropdown-item">
                   Free Quote
-                </NavLink>
-                <NavLink to="team.html" className="dropdown-item">
+                </Link>
+                <Link to="team.html" className="dropdown-item">
                   Our Team
-                </NavLink>
-                <NavLink to="testimonial.html" className="dropdown-item">
+                </Link>
+                <Link to="testimonial.html" className="dropdown-item">
                   Testimonial
-                </NavLink>
-                <NavLink to="404.html" className="dropdown-item">
+                </Link>
+                <Link to="404.html" className="dropdown-item">
                   404 Page
-                </NavLink>
+                </Link>
               </div>
             </div>
             <NavLink to="contact.html" className="nav-item nav-link">
